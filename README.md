@@ -1,4 +1,4 @@
-'m in progress internationalization, Welcome to join.
+progress internationalization, Welcome to join.
 
 Androrat (Fork/Silent Edition)
 
